@@ -1,3 +1,8 @@
+# Notes for our system
+
+1. Modified mk file: `device/qcom/kona/kona.mk`
+2. Pull opengapps repos: see equivalent commands in `equivalent-pull.sh`
+
 # OpenGApps AOSP based build system
 
 ## ++Infrastructure Issues++
